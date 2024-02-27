@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# don't show my credentials in the net
+my_settings.h
